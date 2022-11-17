@@ -31,8 +31,6 @@
 <h1 align="center">
    <img alt="Readme" title="Readme"
    src="./github/Readme.gif">
-
-   [Visualizar](dazzling-selkie-def801.netlify.app)
 </h1>
 
 ### Pré-requisitos:

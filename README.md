@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+<h1 align='center'>Projeto DevLinks</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align='center'>Esse projeto foi desenvolvido com a finalidade de consolidar oque foi aprendido e fazer algo que eu posso utilizar para uso pessoal, me desafiei e aprendi bastante coisas novas que fez aquecer ainda mais meu coração por essa área.</p>
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+<p align='center'>
+<a href='#sobre'>Sobre</a> |
+<a href='#visualização'>Visualização</a> |
+<a href='#tecnologiass'>Tecnologias</a> 
+</p>
+<hr>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Sobre
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+- [x] Não é permitido outro usuário acessar a página de Admin;
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [x] Barra de Navegação;
 
-### `npm run build`
+- [x] Adiciona e exclui links de contatos pessoais;
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [x] Da opção para o usuário escolher a cor de fundo do link e a cor do texto do link;
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- [x] E expõe tudo na página home para outras pessoas que estão acessando o site;
+<hr>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Visualização
 
-### `npm run eject`
+<h1 align="center">
+   <img alt="Readme" title="Readme"
+   src="./github/Readme.gif">
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+   [Visualizar](dazzling-selkie-def801.netlify.app)
+</h1>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Pré-requisitos:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Rodando o Front End
 
-## Learn More
+```bash
+# Clone este repositório
+$ git clone <https://github.com/matheusrodrigues1/devlink.git>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#instale as dependências 
+$ npm
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+#execute a aplicação em modo de desenvolvimento
+$ npm start
+```
+# Tecnologias
 
-### Code Splitting
+As seguintes ferramentas foram usadas na construção do projeto:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- [JavaScript](https://www.javascript.com/)
+- [React](https://pt-br.reactjs.org/)
+- [Styled-components](https://styled-components.com/)
+- [Node.js](https://nodejs.org/en/)
+---
 
-### Analyzing the Bundle Size
+Made with 💙 by MATHEUS 👋🏽 [See my LinkedIn](https://www.linkedin.com/in/matheus-rodrigues-1a1899231/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
